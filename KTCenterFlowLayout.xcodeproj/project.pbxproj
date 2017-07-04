@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D2661C0C1F0B943D00A17D0F /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D2661C091F0B943D00A17D0F /* Info.plist */; };
-		D2661C0D1F0B943D00A17D0F /* KTCenterFlowLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = D2661C0A1F0B943D00A17D0F /* KTCenterFlowLayout.h */; };
+		D2661C0D1F0B943D00A17D0F /* KTCenterFlowLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = D2661C0A1F0B943D00A17D0F /* KTCenterFlowLayout.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D2661C0E1F0B943D00A17D0F /* KTCenterFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = D2661C0B1F0B943D00A17D0F /* KTCenterFlowLayout.m */; };
 /* End PBXBuildFile section */
 
